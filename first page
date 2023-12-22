@@ -1,0 +1,4 @@
+chr()	Converts an integer to a character
+ord()	Converts a character to an integer
+len()	Returns the length of a string
+str()	Returns a string representation of an object
